@@ -1,4 +1,8 @@
-# BLE-based Hospital Positioning System (BHPS)
+## BLE-based Hospital Positioning System (BHPS)
+
+## Publication
+* [Researchgate](https://www.researchgate.net/publication/340090598_BLE-based_Indoor_Positioning_System_for_Hospitals_using_MiRingLA_Algorithm)
+* [GoogleScholar](https://scholar.google.co.in/scholar?q=BLE-based%20Indoor%20Positioning%20System%20for%20Hospitals%20using%20MiRingLA%20Algorithm)
 
 # I. Introduction
 This project is my scientific research at University of Technology. I am going to build a GPS-liked, positioning system that helps patients in wayfinding and their medical procedures. I have an ambition of bringing this system into practice at hospitals.
